@@ -24,6 +24,13 @@
 
 ## 快速使用
 
+### 图文操作手册
+
+- [查看或下载 PDF 操作手册](docs/SimpleTranslator_Manual.pdf)
+- [下载网页版操作手册](https://github.com/wujunyu94/SimpleTranslator/raw/refs/heads/main/docs/SimpleTranslator_Manual.html)：下载后用浏览器打开，图片已内嵌，无需另外下载图片文件。
+
+手册适用 1.0.4，包含各按钮说明、截图和反向翻译操作，以及 Gemini、DeepSeek、百度 API 凭据申请和 ChatGPT 订阅授权步骤。API 申请图为操作路径示意，并附官方入口链接。
+
 1. 启动程序，在设置中选择翻译服务，按该服务要求填写密钥或完成授权。
 2. 选择原文和目标语言；原文可以使用自动识别。
 3. 点击“框选翻译”，拖动鼠标选择需要翻译的屏幕区域；框选时可按 Esc 或右键取消。
